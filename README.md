@@ -1,3 +1,3 @@
 # sdl.HelloAndroid
 
-This repository contains source code of class of CSC.T424.
+This repository contains source code of class CSC.T424.
